@@ -27,8 +27,8 @@ Clone this repo locally, then navigate into the SlideCenter directory (the root 
 	`./compil.sh`
 	
 3. To install the .deb file on your jailbroken iOS device:  
-	-SSH the file to your iDevice and install it with iFile
-	-SSH the file to your iDevice and install it with this command: `dpkg -i ./SlideCenter.deb`
+	1. SSH the file to your iDevice and install it with iFile
+	2. SSH the file to your iDevice and install it with this command: `dpkg -i ./SlideCenter.deb`
 	
 4. To enable it go to the Settings app in notifications section and enable the Slide Center Widget to show in the Notification Center.
 	
