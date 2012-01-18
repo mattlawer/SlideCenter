@@ -1,0 +1,8 @@
+Package: com.mathieubolard.SlideCenter
+Name: SlideCenter
+Version: 1.2-3
+Architecture: iphoneos-arm
+Description: An awesome slideshow widget for the notification center !
+Maintainer: Mathieu Bolard (mattlawer)
+Author: Mathieu Bolard (mattlawer)
+Section: Widgets
