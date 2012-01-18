@@ -10,7 +10,7 @@ It will display the pictures you have in your library in the notification center
 Donations
 ---------
 
-If you like this Widget, a Paypal donation would be very appreciated (mathieu.bolard [at] gmail [dot] com) 
+If you like this Widget, a Paypal donation would be very appreciated (mathieu.bolard [at] gmail [dot] com) [HERE](http://bit.ly/ufm6N4).
 
 
 
